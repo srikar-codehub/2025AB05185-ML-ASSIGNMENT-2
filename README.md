@@ -31,7 +31,7 @@ The objective is to:
 | ST_Slope | Slope of the peak exercise ST segment (Up, Flat, Down) |
 | HeartDisease | Target variable (1: Heart Disease, 0: Normal) |
 
-- **Number of Features:** 11
+- **Number of Features:** 12
 - **Number of Instances:** 918
 - **Target Variable:** HeartDisease (Binary Classification)
 
