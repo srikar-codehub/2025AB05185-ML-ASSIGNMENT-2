@@ -151,6 +151,10 @@ streamlit run app.py
 - **Student ID:** 2025AB05185
 - **Institution:** BITS Pilani
 
+## BITS Virtual Lab - Proof of Execution
+
+![Assignment executed on BITS Virtual Lab](assignment-screenshot.png)
+
 ## License
 
 This project is for educational purposes as part of the ML course assignment.
