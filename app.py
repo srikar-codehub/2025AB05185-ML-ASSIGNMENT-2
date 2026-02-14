@@ -312,6 +312,9 @@ def train_model_for_prediction(model_name):
 
 # ============== MAIN APP ==============
 
+# Loading notice for free tier
+st.info("Please wait while the app loads. Switching between tabs may take a moment as this is hosted on Streamlit's free tier.")
+
 # Title
 st.title("Heart Disease Classification")
 st.markdown("##### ML Models Comparison | Binary Classification")
